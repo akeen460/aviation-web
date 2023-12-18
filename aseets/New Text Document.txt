@@ -1,0 +1,2 @@
+primary color #013ca6
+text color white
